@@ -1,0 +1,56 @@
+{
+  "2024-06-28": [
+    {
+      "id": 1719557619145,
+      "hour": "10:55",
+      "text": "ZZZZZZZZZZZZZZZZ",
+      "moreInfo": "WWWWWWWWWWWWWWWWWWWWWW"
+    },
+    {
+      "id": 1719557619148,
+      "hour": "08:05",
+      "text": "AAAAAAAAAAAAAAAAAAA",
+      "moreInfo": "QQQQQQQQQQQQQQQQQQQQ"
+    }
+  ],
+  "2024-07-02": [
+    {
+      "id": 1719557619254,
+      "hour": "20:15",
+      "text": "JULIO",
+      "moreInfo": "JULIOOOOOOOOOO"
+    },
+    {
+      "id": 1719557619140,
+      "hour": "08:05",
+      "text": "KKKKKKKKK",
+      "moreInfo": "LLLLLLLLLLLLLLLLLLLLLLL"
+    }
+  ],
+  "tareasPendientes": [
+    {
+      "id": 1719557619146,
+      "text": "Reclamacion IG",
+      "moreInfo": "Recabar informacion y organizarlo en la carpeta ReclamacionIG. Pedir ayuda en CNMV",
+      "completado": false
+    },
+    {
+      "id": 1719589017405,
+      "text": "Reclamacion Relx-IG",
+      "moreInfo": "sssssssssss",
+      "completed": false
+    },
+    {
+      "id": 1719589043906,
+      "text": "Matriculacion centros FP",
+      "moreInfo": "",
+      "completed": false
+    },
+    {
+      "id": 1719589043908,
+      "text": "ordenar papeles",
+      "moreInfo": "",
+      "completed": false
+    }
+  ]
+}
